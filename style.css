@@ -59,6 +59,9 @@ h2{
 }
 #full-stack-exprience{
     border-left: 7px solid;
-    border-image: liner-gradient(salmon,tomato);
+    border-image: liner-gradient(black,tomato);
     border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
